@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../../dev/leet-code-weekly-problems/palindrome-number-number-nine/palindrome-number-number-nine.iml" filepath="$PROJECT_DIR$/../../../../dev/leet-code-weekly-problems/palindrome-number-number-nine/palindrome-number-number-nine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindrome-number-number-nine.iml" filepath="$PROJECT_DIR$/palindrome-number-number-nine.iml" />
     </modules>
   </component>
 </project>
